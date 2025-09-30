@@ -1,0 +1,92 @@
+[
+  {
+  "Año": 2010, 
+  "Renovables": 40, 
+  "No_Renovables": 60 
+},
+
+  { 
+   "Año": 2011,
+   "Renovables": 41, 
+   "No_Renovables": 59 
+  
+  },
+  { 
+   "Año": 2012,
+   "Renovables": 42,
+   "No_Renovables": 58 
+  
+  },
+
+  { 
+  "Año": 2013, 
+  "Renovables": 43,
+  "No_Renovables": 57 
+},
+
+  {
+   "Año": 2014, 
+   "Renovables": 44, 
+   "No_Renovables": 56
+   },
+
+  { 
+  "Año": 2015,
+  "Renovables": 45, 
+  "No_Renovables": 55 
+},
+
+  {
+   "Año": 2016, 
+  "Renovables": 47, 
+  "No_Renovables": 53
+ },
+
+  { 
+  "Año": 2017,
+  "Renovables": 49,
+  "No_Renovables": 51 
+},
+
+  { 
+  "Año": 2018, 
+  "Renovables": 51, 
+  "No_Renovables": 49 
+},
+
+  { 
+   "Año": 2019,
+   "Renovables": 53,
+   "No_Renovables": 47 
+  },
+
+  { 
+  "Año": 2020, 
+  "Renovables": 55, 
+  "No_Renovables": 45
+ },
+
+  { 
+  "Año": 2021, 
+  "Renovables": 41, 
+  "No_Renovables": 59
+ },
+
+  { 
+  "Año": 2022, 
+  "Renovables": 56,
+   "No_Renovables": 44 
+  },
+
+  {
+     "Año": 2023, 
+     "Renovables": 63, 
+     "No_Renovables": 37 
+    },
+
+  { 
+    "Año": 2024, 
+    "Renovables": 66, 
+    "No_Renovables":32 
+  }
+]
